@@ -1,0 +1,13 @@
+.antdDemo {
+    text-align: center;
+}
+
+.leftDiv {
+    position: relative;
+    float: left;
+    width: 20%;
+}  
+
+.antdDemo span {
+    margin: 5px;
+}
