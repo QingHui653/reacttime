@@ -1,0 +1,16 @@
+label{
+    position: relative;
+}
+
+.ant-input{
+    width: 75%;
+}
+
+.searchGroup button{
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.searchGroup .reSetBtn{
+    background-color: #01BE98
+}
