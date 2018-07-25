@@ -22,6 +22,8 @@ class SearchBar extends Component {
 
 
     render(){
+        // props 通常 用于 父子 组件 传递 .类似 freemark 的 组件属性
+        // 可选 [校验类型](http://www.runoob.com/react/react-props.html)
         var searchName = this.props.searchName;
 
         return(
