@@ -3,10 +3,12 @@
 }
 
 .leftDiv {
-    position: relative;
-    float: left;
+    
 }  
 
 .leftDiv span {
     margin: 5px;
+}
+.components{
+    margin-top: 20px
 }
