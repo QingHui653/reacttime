@@ -6,8 +6,10 @@
     "antd": "^3.7.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4"
   },
+  "homepage": "/reacttime",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Button from 'antd/lib/button';
 import message from 'antd/lib/message';
 // 自有组件
-import SearchBar from './SearchBar';
+import SearchBar from './SearchBar/SearchBar';
 import Clock from './Clock/Clock';
 import Keys from './Keys/Keys';
 import LifeCycle from './LifeCycle/LifeCycle';
