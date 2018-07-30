@@ -12,6 +12,7 @@ class SideBar extends Component {
                     <li><Link to="/ReactApi">ReactApi</Link></li>
                     <li><Link to="/Form">Form</Link></li>
                     <li><Link to="/Clock">Clock</Link></li>
+                    <li><Link to="/News">News</Link></li>
                 </ul>
             </div>
         )
