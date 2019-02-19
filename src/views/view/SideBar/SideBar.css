@@ -1,3 +1,17 @@
 .sideBar{
-    background-color: violet;
+    background-color: #3d454d;
+}
+.sideBar .sideBarHeader{
+    background-color: #48525b;
+}
+.sideBar ul {
+    padding-left: 30px;
+}
+.sideBar li {
+    margin: 10px;
+    list-style-type: none;
+}
+.sideBar li a{
+    background-color: transparent;
+    color:#b9bbbe;
 }
